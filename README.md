@@ -24,7 +24,7 @@ This GitHub is where I share projects connecting **data, business, and strategy*
 
 <br/>
 
-## 🤖 Technical Skillset
+## 🤖 Skillset
 
 
 #### 🛠 Technical Skills
