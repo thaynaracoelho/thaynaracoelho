@@ -41,25 +41,10 @@ This GitHub is where I share projects connecting **data, business, and strategy*
 #### 📊 Data & Analytics
 <p>
   <img src="https://img.shields.io/badge/Exploratory Data Analysis (EDA)-A04EE0?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-FEDE00?style=flat" alt="KPI Development Skill Badge">
-  <img src="https://img.shields.io/badge/Data Storytelling-FD5F98?style=flat" alt="Data Storytelling Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-23B368?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Hypothesis Testing-F95568?style=flat" alt="Hypothesis Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Regression Analysis-1E94B6?style=flat" alt="Regression Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-A04EE0?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Data Storytelling-A04EE0?style=flat" alt="Data Storytelling Skill Badge"><br/>
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-0A8645?style=flat" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Hypothesis Testing-0A8645?style=flat" alt="Hypothesis Testing Skill Badge">
+  <img src="https://img.shields.io/badge/Regression Analysis-0A8645?style=flat" alt="Regression Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Econometric Modeling-0A8645?style=flat" alt="Econometric Modeling Skill Badge">
 </p>
-
-<!--
-**thaynaracoelho/thaynaracoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
