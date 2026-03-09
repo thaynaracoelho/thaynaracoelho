@@ -30,7 +30,7 @@ This GitHub is where I share projects connecting **data, business, and strategy*
 #### 🛠 Technical Skills
 <p>
       <img alt="PostgreSQL" src="https://custom-icon-badges.demolab.com/badge/PostgreSQL | Intermadiate
--E8E8E8.svg?logo=postgreesql&logoColor=white"></a>
+-E8E8E8.svg?logo=postgresql-24&logoColor=white"></a>
       <img alt="Excel" src="https://custom-icon-badges.demolab.com/badge/Excel | Advanced-169154.svg?logo=icons8excel&logoColor=white"></a>
       <img alt="PowerBI" src="https://custom-icon-badges.demolab.com/badge/Power BI | Advanced-FCC419.svg?logo=testethay&logoColor=white"></a>
       <img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python | Numpy, Pandas and Matplotlib-03599C.svg?logo=icons8-python&logoColor=white"></a>
