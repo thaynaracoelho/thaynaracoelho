@@ -1,6 +1,6 @@
 # 👩🏽‍💻 I'm Thaynara Coelho 
 
-**`Economist 🟣 Data Analyst 🟣 Business & Performance Analytics`**
+**`Data Analyst 🟣 Business & Performance Analytics 🟣 Economist`**
 
 Economist by training, data analyst, and a new mom — increasingly fascinated by the world of data and AI.
 
