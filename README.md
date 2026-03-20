@@ -16,12 +16,11 @@ This GitHub is where I share projects connecting **data, business, and strategy*
 <p align="center">
   <a href="https://www.linkedin.com/in/thaynara-coelho/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=A04EE0"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/eucoelhothay/"><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/?size=100&id=59813&format=png&color=A04EE0"/></a>
+  <a href="(https://www.youtube.com/@datathay)"><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/?size=100&id=37326&format=png&color=A04EE0"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="mailto:thaynara.scoelho@outlook.com"><img width="32px" alt="e-mail" title="Send me an e-mail" src="https://img.icons8.com/?size=100&id=Xqc1euf6lDxs&format=png&color=A04EE0"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="futurechannel"><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/?size=100&id=37326&format=png&color=A04EE0"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/eucoelhothay/"><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/?size=100&id=59813&format=png&color=A04EE0"/></a>
 
 
 <br/>
